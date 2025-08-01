@@ -1,0 +1,12 @@
+
+Hvordan legge inn e-postsignatur i Outlook (Windows)
+
+1. Åpne filen "signatur.html" i nettleseren (høyreklikk → Åpne med → Chrome).
+2. Trykk Ctrl + A (merk alt), så Ctrl + C (kopier).
+3. Åpne Outlook → Finn innstillinger symbolet (Like ved profilbilde) 
+4. Velg Konto så Signaturer
+5. Lag en ny signatur, gi den et navn. (Feks navnet ditt)
+6. Lim inn signaturen fra filen du åpnet i stad(Ctrl + V).
+7. Velg når signaturen skal brukes (ny e-post, svar/videresend).
+
+
